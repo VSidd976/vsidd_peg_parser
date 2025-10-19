@@ -3,6 +3,7 @@ name = "vsidd_peg_parser"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
+description = "my parser for education purpose"
 
 [dependencies]
 peg = "0.8.5"
